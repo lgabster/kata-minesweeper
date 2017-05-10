@@ -1,0 +1,17 @@
+{
+  "extends": "standard",
+
+  "globals": {
+    "describe": true,
+    "before": true,
+    "it": true,
+    "expect": true,
+    "beforeEach": true
+  },
+
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  }
+}
